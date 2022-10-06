@@ -1,5 +1,9 @@
+body {
+  text-align: center;
+}
 .ball-container {
   display: flex;
+  justify-content: center;
 }
 .ball {
   margin-right: 2px;
